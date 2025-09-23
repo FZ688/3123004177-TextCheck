@@ -1,7 +1,5 @@
-package com.paperchecker;
+package com.fz;
 
-import com.fz.SimilarityCalculator;
-import com.fz.TextProcessor;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
